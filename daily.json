@@ -23,5 +23,7 @@
 	},"2026-05-31" : {
 		"word-tr": "perçin",
 		"word-en": "savage" 
-	}
+	},
+	"ads_enabled": true,
+	"ad_frequency": 4
 }
